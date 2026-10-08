@@ -1,5 +1,5 @@
 # leetcode
-this is the repo where i will store all my solved leetcode problems
+this is the repo where i will store all my solved leetcode problems.this is my 2nd github dsa repo.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
