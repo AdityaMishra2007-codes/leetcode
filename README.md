@@ -20,4 +20,8 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
