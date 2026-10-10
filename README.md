@@ -51,4 +51,8 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
