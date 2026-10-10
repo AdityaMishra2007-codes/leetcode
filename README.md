@@ -10,6 +10,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0011-container-with-most-water](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
