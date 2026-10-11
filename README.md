@@ -12,6 +12,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
