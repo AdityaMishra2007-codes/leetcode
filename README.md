@@ -7,6 +7,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -64,4 +65,12 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
