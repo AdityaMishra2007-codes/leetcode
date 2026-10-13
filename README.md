@@ -21,11 +21,13 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | ------- |
 | [0001-two-sum](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0014-longest-common-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
@@ -36,6 +38,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
