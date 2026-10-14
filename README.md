@@ -17,6 +17,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0011-container-with-most-water) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
