@@ -11,6 +11,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0011-container-with-most-water](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
@@ -22,6 +23,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0001-two-sum](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
