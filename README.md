@@ -38,6 +38,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0014-longest-common-prefix](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
