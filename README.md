@@ -15,6 +15,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -130,4 +133,12 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0050-powx-n) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
