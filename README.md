@@ -17,6 +17,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0041-first-missing-positive](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
