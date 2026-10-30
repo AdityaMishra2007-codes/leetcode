@@ -40,6 +40,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0013-roman-to-integer](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0125-valid-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
@@ -63,6 +64,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0027-remove-element](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
