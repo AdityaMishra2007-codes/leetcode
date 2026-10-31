@@ -113,6 +113,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
+| [0147-insertion-sort-list](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -136,6 +137,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0147-insertion-sort-list](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
