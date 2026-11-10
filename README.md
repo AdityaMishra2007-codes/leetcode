@@ -18,6 +18,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0053-maximum-subarray](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 | [0013-roman-to-integer](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -157,4 +159,8 @@ this is the repo where i will store all my solved leetcode problems.this is my 2
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaMishra2007-codes/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
